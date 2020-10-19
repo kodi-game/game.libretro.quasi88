@@ -49,5 +49,9 @@ msgid "Sound board"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Sub-CPU Mode"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Use FDC-Wait"
 msgstr ""
