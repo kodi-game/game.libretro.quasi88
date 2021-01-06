@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.quasi88"
 		name="NEC - PC-8000 / PC-8800 series (QUASI88)"
-		version="0.6.4.5"
+		version="0.6.4.6"
 		provider-name="Showzoh Fukunaga">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
