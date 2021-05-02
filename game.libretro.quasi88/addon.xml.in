@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.quasi88"
 		name="NEC - PC-8000 / PC-8800 series (QUASI88)"
-		version="0.6.4.7"
+		version="0.6.4.8"
 		provider-name="Showzoh Fukunaga">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -16,7 +16,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">NEC - PC-8000 / PC-8800 series (QUASI88) 0.6.4</summary>
 		<description lang="en_GB">Supported files: .d88, .m3u</description>
-		<license>BSD 3-Clause</license>
+		<license>BSD 3-Clause and MAME non-commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.quasi88</source>
 	</extension>
