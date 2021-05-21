@@ -26,33 +26,33 @@ msgid "Basic mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "CPU clock"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Use PCG-8100"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Rumble on disk access"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Save to disk image"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Screen size"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Sound board"
-msgstr ""
-
-msgctxt "#30008"
 msgid "Sub-CPU Mode"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30003"
+msgid "CPU clock"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Sound board"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Use FDC-Wait"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Use PCG-8100"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Save to disk image"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Rumble on disk access"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Screen size"
 msgstr ""
