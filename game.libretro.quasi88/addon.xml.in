@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.quasi88</source>
 		<summary lang="en_GB">NEC - PC-8000 / PC-8800 series (QUASI88) 0.6.4</summary>
-		<description lang="en_GB">QUASI88 is an emulator by Showzoh Fukunaga licensed under the BSD 3-Clause license. QUASI88 uses code from MAME, XMAME and fmgen.Supported files: .d88, .m3u</description>
+		<description lang="en_GB">QUASI88 is an emulator by Showzoh Fukunaga licensed under the BSD 3-Clause license. QUASI88 uses code from MAME, XMAME and fmgen.</description>
 	</extension>
 </addon>
