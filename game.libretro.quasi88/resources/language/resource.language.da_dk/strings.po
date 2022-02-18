@@ -30,12 +30,12 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Basic mode"
-msgstr "Grundlæggende tilstand"
+msgid "BASIC mode"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Sub-CPU Mode"
-msgstr "Tilstand for Sub-CPU"
+msgid "Sub-CPU mode"
+msgstr ""
 
 msgctxt "#30003"
 msgid "CPU clock"
@@ -46,8 +46,8 @@ msgid "Sound board"
 msgstr "Lydkort"
 
 msgctxt "#30005"
-msgid "Use FDC-Wait"
-msgstr "Brug FDC-Wait"
+msgid "FDC-Wait"
+msgstr ""
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
@@ -64,3 +64,15 @@ msgstr "Ryst ved adgang til disk"
 msgctxt "#30009"
 msgid "Screen size"
 msgstr "Skærmstørrelse"
+
+#~ msgctxt "#30001"
+#~ msgid "Basic mode"
+#~ msgstr "Grundlæggende tilstand"
+
+#~ msgctxt "#30002"
+#~ msgid "Sub-CPU Mode"
+#~ msgstr "Tilstand for Sub-CPU"
+
+#~ msgctxt "#30005"
+#~ msgid "Use FDC-Wait"
+#~ msgstr "Brug FDC-Wait"

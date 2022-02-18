@@ -29,11 +29,11 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Basic mode"
+msgid "BASIC mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Sub-CPU Mode"
+msgid "Sub-CPU mode"
 msgstr ""
 
 msgctxt "#30003"
@@ -45,7 +45,7 @@ msgid "Sound board"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Use FDC-Wait"
+msgid "FDC-Wait"
 msgstr ""
 
 msgctxt "#30006"
