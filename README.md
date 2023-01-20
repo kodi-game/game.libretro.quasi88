@@ -13,7 +13,7 @@ BSD 3-Clause and MAME non-commercial
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.quasi88/resources/icon.png)
 
 ### Fanart
 
