@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "QUASI88 is an emulator by Showzoh Fukunaga licensed under the BSD 3-Clause license. QUASI88 uses code from MAME, XMAME and fmgen."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Image credit: NEC Retro"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Impostazioni"
