@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "QUASI88 is an emulator by Showzoh Fukunaga licensed under the BSD 3-Clause license. QUASI88 uses code from MAME, XMAME and fmgen."
-msgstr ""
+msgstr "QUASI88 es un emulador de Showzoh Fukunaga licenciado bajo la licencia BSD 3-Clause. QUASI88 utiliza código de MAME, XMAME y fmgen."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
@@ -35,36 +35,36 @@ msgstr "Ajustes"
 
 msgctxt "#30001"
 msgid "BASIC mode"
-msgstr ""
+msgstr "Modo BASIC"
 
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr ""
+msgstr "Modo Sub-CPU"
 
 msgctxt "#30003"
 msgid "CPU clock"
-msgstr ""
+msgstr "Reloj de la CPU"
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr ""
+msgstr "Placa de Sonido"
 
 msgctxt "#30005"
 msgid "FDC-Wait"
-msgstr ""
+msgstr "FDC-Espera"
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
-msgstr ""
+msgstr "Utilizar PCG-8100"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr ""
+msgstr "Guardar en Imagen de Disco"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr ""
+msgstr "Vibración al Acceder al Disco"
 
 msgctxt "#30009"
 msgid "Screen size"
-msgstr ""
+msgstr "Tamaño de la Pantalla"
