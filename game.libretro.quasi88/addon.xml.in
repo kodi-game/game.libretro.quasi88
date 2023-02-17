@@ -28,5 +28,6 @@
 		<description lang="zh_CN">QUASI88 是由 Showzoh Fukunaga 根据 BSD 3-Clause 许可证授权的模拟器。QUASI88 使用来自 MAME、XMAME 和 fmgen 的代码。</description>
 		<disclaimer lang="da_DK">Billedkreditering: NEC Retro</disclaimer>
 		<disclaimer lang="en_GB">Image credit: NEC Retro</disclaimer>
+		<disclaimer lang="es_ES">Créditos de la imagen: NEC Retro</disclaimer>
 	</extension>
 </addon>
