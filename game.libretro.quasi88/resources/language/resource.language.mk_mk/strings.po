@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC-8000 / PC-8800 series (QUASI88) 0.6.4"
+msgid "NEC - PC-8000 / PC-8800 series (QUASI88)"
 msgstr ""
 
 msgctxt "Addon Description"
