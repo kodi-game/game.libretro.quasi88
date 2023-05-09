@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">NEC - PC-8000 / PC-8800 serie (QUASI88)</summary>
 		<summary lang="en_GB">NEC - PC-8000 / PC-8800 series (QUASI88)</summary>
 		<summary lang="es_ES">NEC - Series PC-8000 / PC-8800 (QUASI88)</summary>
 		<description lang="da_DK">QUASI88 er en emulator af Showzoh Fukunaga licenseret under BSD 3-klausulens licens. QUASI88 bruger kode fra MAME, XMAME og fmgen.</description>
