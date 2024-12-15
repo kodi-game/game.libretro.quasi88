@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
 msgstr "图片来源：NEC Retro"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "BASIC mode"
 msgstr "基本模式"
@@ -68,3 +64,7 @@ msgstr "磁盘访问时发出隆隆声"
 msgctxt "#30009"
 msgid "Screen size"
 msgstr "屏幕大小"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

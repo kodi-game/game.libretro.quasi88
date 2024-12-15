@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
 msgstr "Billedkreditering: NEC Retro"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "BASIC mode"
 msgstr "Grundlæggende tilstand"
@@ -68,6 +64,10 @@ msgstr "Ryst ved adgang til disk"
 msgctxt "#30009"
 msgid "Screen size"
 msgstr "Skærmstørrelse"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "Basic mode"

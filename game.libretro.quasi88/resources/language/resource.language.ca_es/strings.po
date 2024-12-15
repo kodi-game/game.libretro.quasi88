@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "BASIC mode"
 msgstr ""

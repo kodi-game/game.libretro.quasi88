@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
 msgstr "Créditos de la imagen: NEC Retro"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "BASIC mode"
 msgstr "Modo BASIC"
@@ -68,3 +64,7 @@ msgstr "Vibración al Acceder al Disco"
 msgctxt "#30009"
 msgid "Screen size"
 msgstr "Tamaño de Pantalla"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
