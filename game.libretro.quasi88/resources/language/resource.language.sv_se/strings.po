@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.quasi88\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:03i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-quasi88/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "QUASI88 är en emulator av Showzoh Fukunaga licensierad under BSD 3-Clau
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: NEC Retro"
-msgstr ""
+msgstr "Bild: NEC Retro"
 
 msgctxt "#30001"
 msgid "BASIC mode"
