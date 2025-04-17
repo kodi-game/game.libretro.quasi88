@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.quasi88\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:03i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-quasi88/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "NEC - PC-8000 / PC-8800 series (QUASI88)"
@@ -31,39 +31,41 @@ msgstr "Bild: NEC Retro"
 
 msgctxt "#30001"
 msgid "BASIC mode"
-msgstr ""
+msgstr "BASIC-läge"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr ""
+msgstr "Sub-CPU-läge"
 
 msgctxt "#30003"
 msgid "CPU clock"
-msgstr ""
+msgstr "CPU-klocka"
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr ""
+msgstr "Ljudkort"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "FDC-Wait"
-msgstr ""
+msgstr "FDC-vänta"
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
-msgstr ""
+msgstr "Använd PCG-8100"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr ""
+msgstr "Spara till diskavbildning"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr ""
+msgstr "Rumble vid diskåtkomst"
 
 msgctxt "#30009"
 msgid "Screen size"
-msgstr ""
+msgstr "Skärmstorlek"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
