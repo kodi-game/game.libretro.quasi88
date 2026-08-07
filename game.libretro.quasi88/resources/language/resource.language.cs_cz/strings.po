@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 2026.7\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC-8000 / PC-8800 series (QUASI88)"
+msgid "NEC - PC-88 series (QUASI88)"
 msgstr "NEC - řada PC-8000 / PC-8800 (QUASI88)"
 
 msgctxt "Addon Description"
