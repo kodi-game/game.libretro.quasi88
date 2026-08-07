@@ -1,4 +1,4 @@
-# NEC - PC-8000 / PC-8800 series (QUASI88)
+# NEC - PC-88 series (QUASI88)
 
 ### Description
 
@@ -10,7 +10,7 @@ BSD 3-Clause and MAME non-commercial
 
 ### Icon
 
-![NEC - PC-8000 / PC-8800 series (QUASI88) icon](game.libretro.quasi88/resources/icon.png)
+![NEC - PC-88 series (QUASI88) icon](game.libretro.quasi88/resources/icon.png)
 
 ### Fanart
 

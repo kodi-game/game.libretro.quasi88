@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.quasi88"
-		name="NEC - PC-8000 / PC-8800 series (QUASI88)"
-		version="0.6.4.40"
+		name="NEC - PC-88 series (QUASI88)"
+		version="0.6.4.41"
 		provider-name="Showzoh Fukunaga">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -26,7 +26,7 @@
 		</assets>
 		<summary lang="cs_CZ">NEC - řada PC-8000 / PC-8800 (QUASI88)</summary>
 		<summary lang="da_DK">NEC - PC-8000 / PC-8800 serie (QUASI88)</summary>
-		<summary lang="en_GB">NEC - PC-8000 / PC-8800 series (QUASI88)</summary>
+		<summary lang="en_GB">NEC - PC-88 series (QUASI88)</summary>
 		<summary lang="es_ES">NEC - Series PC-8000 / PC-8800 (QUASI88)</summary>
 		<summary lang="ga">NEC - sraith PC-8000 / PC-8800 (QUASI88)</summary>
 		<summary lang="ru_RU">NEC — серия PC-8000 / PC-8800 (QUASI88)</summary>

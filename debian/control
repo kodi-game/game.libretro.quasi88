@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: NEC - PC-8000 / PC-8800 series (QUASI88) core for kodi's retroplayer
- NEC - PC-8000 / PC-8800 series (QUASI88) core for kodi's retroplayer
+Description: NEC - PC-88 series (QUASI88) core for kodi's retroplayer
+ NEC - PC-88 series (QUASI88) core for kodi's retroplayer
