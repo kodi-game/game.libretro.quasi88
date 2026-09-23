@@ -31,36 +31,158 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "BASIC mode"
-msgstr ""
+msgstr "BASICモード"
 
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr ""
+msgstr "Sub-CPU駆動"
 
 msgctxt "#30003"
 msgid "CPU clock"
-msgstr ""
+msgstr "CPU クロック"
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr ""
+msgstr "サウンドボード"
 
 msgctxt "#30005"
 msgid "FDC-Wait"
-msgstr ""
+msgstr "FDCウエイト"
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
-msgstr ""
+msgstr "PCG-8100"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr ""
+msgstr "ディスクイメージに保存"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr ""
+msgstr "ディスクアクセスでランブル"
 
 msgctxt "#30009"
 msgid "Screen size"
+msgstr "画面サイズ"
+
+msgctxt "#30010"
+msgid ""
+"Recommended: N88-BASIC V2/V1H for PC-8800 software, N-BASIC for PC-8000 software.\n"
+"- If PC-8800 software runs too fast in V2 mode, use a V1 mode.\n"
+"- BIOS files are required for N-BASIC mode. See core info."
+msgstr "推奨：PC-8800シリーズソフトウェアの場合はN88 V2 / V1H、PC-8000シリーズソフトウェアの場合は N。"
+
+msgctxt "#30011"
+msgid "N88-BASIC V2"
 msgstr ""
+
+msgctxt "#30012"
+msgid "N88-BASIC V1H"
+msgstr ""
+
+msgctxt "#30013"
+msgid "N88-BASIC V1S"
+msgstr ""
+
+msgctxt "#30014"
+msgid "N-BASIC"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Recommended: Run Sub-CPU only during disk access."
+msgstr "推奨：ディスク処理中、Sub-CPUのみ駆動させる"
+
+msgctxt "#30016"
+msgid "Run Sub-CPU only during disk access"
+msgstr "ディスク処理中、Sub-CPUのみ駆動させる"
+
+msgctxt "#30017"
+msgid "Run both CPUs during disk access"
+msgstr "ディスク処理中、両CPUを駆動させる"
+
+msgctxt "#30018"
+msgid "Always run both CPUs"
+msgstr "常時、両CPUを駆動させる"
+
+msgctxt "#30019"
+msgid "Recommended: 4MHz or 8MHz. Some software may run too fast with an 8MHz CPU."
+msgstr "推奨：4MHzまたは8MHz。 一部のソフトウェアは、8MHz CPUでは高速に実行される場合があります。"
+
+msgctxt "#30020"
+msgid "4 MHz (NEC µPD780)"
+msgstr "4 MHz (NEC μPD780)"
+
+msgctxt "#30021"
+msgid "8 MHz (NEC µPD70008)"
+msgstr "8 MHz (NEC μPD70008)"
+
+msgctxt "#30022"
+msgid "16 MHz (overclock)"
+msgstr "16 MHz (オーバークロック)"
+
+msgctxt "#30023"
+msgid "32 MHz (overclock)"
+msgstr "32 MHz (オーバークロック)"
+
+msgctxt "#30024"
+msgid "64 MHz (overclock)"
+msgstr "64 MHz (オーバークロック)"
+
+msgctxt "#30025"
+msgid "1 MHz (underclock)"
+msgstr "1 MHz (アンダークロック)"
+
+msgctxt "#30026"
+msgid "2 MHz (underclock)"
+msgstr "2 MHz (アンダークロック)"
+
+msgctxt "#30027"
+msgid "Recommended: OPNA. Some software will sound different when using OPN hardware."
+msgstr "推奨：OPNA。 OPNハードウェアを使用すると、一部のソフトウェアのサウンドが異なります。"
+
+msgctxt "#30028"
+msgid "OPN (Yamaha YM2203)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "OPNA (Yamaha YM2608)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Recommended: ON. Enables more accurate IO timing for the floppy disk controller."
+msgstr "推奨：ON。 FDCの処理にウエイトをいれます。FDCの処理速度に依存する アプリケーションの場合、動くようになる可能性があります。"
+
+msgctxt "#30031"
+msgid "enabled"
+msgstr ""
+
+msgctxt "#30032"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Recommended: OFF. May be required for some PC-8000 software."
+msgstr "推奨：OFF。 一部のPC-8000シリーズソフトウェアに必要な場合があります。 PCG-8100 のサウンドには対応していません。"
+
+msgctxt "#30034"
+msgid ""
+"Recommended: OFF. Changes the core's preferred save behavior.\n"
+"- OFF: Data written to floppy disks will be stored in a separate file in the frontend's save directory.\n"
+"- ON: Data will be written directly to the loaded disk file(s). Will not work with zipped content."
+msgstr "推奨：OFF。 コアが挿入されたフロッピーディスクにデータを書き換えることを許可します。 解凍されたコンテンツでのみ動作します。"
+
+msgctxt "#30035"
+msgid "Recommended: N/A. Imitates the read sounds on the floppy disk controller using the controller's rumble."
+msgstr "推奨：N/A。 コントローラーのランブルを使用して、FDCの読み取り音を模倣します。"
+
+msgctxt "#30036"
+msgid "Recommended: Full. Allows the core to scale the image down. Only recommended for display heights below 400."
+msgstr "推奨：フル。 コアがイメージを縮小できるようにします。 ディスプレイの高さが400未満の場合にのみ推奨されます。"
+
+msgctxt "#30037"
+msgid "Full (640x400)"
+msgstr "フル（640x400）"
+
+msgctxt "#30038"
+msgid "Half (320x200)"
+msgstr "半分 (320x200)"

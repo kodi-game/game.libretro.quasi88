@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "BASIC mode"
-msgstr ""
+msgstr "Modalità BASIC"
 
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr ""
+msgstr "Modalità sub-CPU"
 
 msgctxt "#30003"
 msgid "CPU clock"
@@ -43,7 +43,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr ""
+msgstr "Scheda audio"
 
 msgctxt "#30005"
 msgid "FDC-Wait"
@@ -51,19 +51,147 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
-msgstr ""
+msgstr "Usa PCG-8100"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr ""
+msgstr "Salva su immagine disco"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr ""
+msgstr "Vibrazione sull'accesso al disco"
 
 msgctxt "#30009"
 msgid "Screen size"
+msgstr "Dimensione schermo"
+
+msgctxt "#30010"
+msgid ""
+"Recommended: N88-BASIC V2/V1H for PC-8800 software, N-BASIC for PC-8000 software.\n"
+"- If PC-8800 software runs too fast in V2 mode, use a V1 mode.\n"
+"- BIOS files are required for N-BASIC mode. See core info."
 msgstr ""
+"Consigliato: N88-BASIC V2/V1H per il software PC-8800, N-BASIC per il software PC-8000.\n"
+"- Se il software PC-8800 funziona troppo velocemente in modalità V2, usa una modalità V1.\n"
+"- I file BIOS sono richiesti per la modalità N-BASIC. Vedi le informazioni principali."
+
+msgctxt "#30011"
+msgid "N88-BASIC V2"
+msgstr ""
+
+msgctxt "#30012"
+msgid "N88-BASIC V1H"
+msgstr ""
+
+msgctxt "#30013"
+msgid "N88-BASIC V1S"
+msgstr ""
+
+msgctxt "#30014"
+msgid "N-BASIC"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Recommended: Run Sub-CPU only during disk access."
+msgstr "Consigliato: Esegui SubCPU solo durante l'accesso al disco."
+
+msgctxt "#30016"
+msgid "Run Sub-CPU only during disk access"
+msgstr "Eseguire SubCPU solo durante l'accesso al disco"
+
+msgctxt "#30017"
+msgid "Run both CPUs during disk access"
+msgstr "Eseguire entrambe le CPU durante l'accesso al disco"
+
+msgctxt "#30018"
+msgid "Always run both CPUs"
+msgstr "Eseguire sempre entrambe le CPU"
+
+msgctxt "#30019"
+msgid "Recommended: 4MHz or 8MHz. Some software may run too fast with an 8MHz CPU."
+msgstr "Consigliato: 4MHz o 8MHz. Alcuni software possono funzionare troppo velocemente con una CPU 8MHz."
+
+msgctxt "#30020"
+msgid "4 MHz (NEC µPD780)"
+msgstr "4 MHz (NEC μPD780)"
+
+msgctxt "#30021"
+msgid "8 MHz (NEC µPD70008)"
+msgstr "8 MHz (NEC μPD70008)"
+
+msgctxt "#30022"
+msgid "16 MHz (overclock)"
+msgstr ""
+
+msgctxt "#30023"
+msgid "32 MHz (overclock)"
+msgstr ""
+
+msgctxt "#30024"
+msgid "64 MHz (overclock)"
+msgstr ""
+
+msgctxt "#30025"
+msgid "1 MHz (underclock)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "2 MHz (underclock)"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Recommended: OPNA. Some software will sound different when using OPN hardware."
+msgstr "Consigliato: OPNA. Alcuni software suoneranno diversi quando si utilizza l'hardware OPN."
+
+msgctxt "#30028"
+msgid "OPN (Yamaha YM2203)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "OPNA (Yamaha YM2608)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Recommended: ON. Enables more accurate IO timing for the floppy disk controller."
+msgstr "Consigliato: ACCESO. Abilita la sincronizzazione IO più accurata per il controller disco floppy."
+
+msgctxt "#30031"
+msgid "enabled"
+msgstr ""
+
+msgctxt "#30032"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Recommended: OFF. May be required for some PC-8000 software."
+msgstr "Consigliato: OFF. Può essere richiesto per alcuni software PC-8000."
+
+msgctxt "#30034"
+msgid ""
+"Recommended: OFF. Changes the core's preferred save behavior.\n"
+"- OFF: Data written to floppy disks will be stored in a separate file in the frontend's save directory.\n"
+"- ON: Data will be written directly to the loaded disk file(s). Will not work with zipped content."
+msgstr ""
+"Consigliato: OFF. Cambia il comportamento di salvataggio preferito del nucleo.\n"
+"- SPENTO: I dati scritti su dischetti saranno memorizzati in un file separato nella cartella di salvataggio del frontend.\n"
+"- ACCESO: i dati verranno scritti direttamente sui file del disco caricato. Non funzionerà con il contenuto ziped."
+
+msgctxt "#30035"
+msgid "Recommended: N/A. Imitates the read sounds on the floppy disk controller using the controller's rumble."
+msgstr "Consigliato: N/A. Imita i suoni di lettura sul regolatore del disco floppy usando il rombo del regolatore."
+
+msgctxt "#30036"
+msgid "Recommended: Full. Allows the core to scale the image down. Only recommended for display heights below 400."
+msgstr "Consigliato: Pieno. Consente al nucleo di ridimensionare l'immagine. Consigliato solo per le altezze di visualizzazione inferiori a 400."
+
+msgctxt "#30037"
+msgid "Full (640x400)"
+msgstr "Pieno (640x400)"
+
+msgctxt "#30038"
+msgid "Half (320x200)"
+msgstr "Metà (320x200)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

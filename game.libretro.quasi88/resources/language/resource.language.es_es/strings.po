@@ -35,19 +35,19 @@ msgstr "Modo BASIC"
 
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr "Modo Sub-CPU"
+msgstr "Modo de la sub-CPU"
 
 msgctxt "#30003"
 msgid "CPU clock"
-msgstr "Reloj de la CPU"
+msgstr "Velocidad de la CPU"
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr "Placa de Sonido"
+msgstr "Tarjeta de sonido"
 
 msgctxt "#30005"
 msgid "FDC-Wait"
-msgstr "FDC-Espera"
+msgstr "Esperar al FDC"
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
@@ -55,15 +55,143 @@ msgstr "Utilizar PCG-8100"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr "Guardar en Imagen de Disco"
+msgstr "Guardar a una imagen de disquete"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr "Vibración al Acceder al Disco"
+msgstr "Vibrar el mando al acceder al disquete"
 
 msgctxt "#30009"
 msgid "Screen size"
-msgstr "Tamaño de Pantalla"
+msgstr "Tamaño de la pantalla"
+
+msgctxt "#30010"
+msgid ""
+"Recommended: N88-BASIC V2/V1H for PC-8800 software, N-BASIC for PC-8000 software.\n"
+"- If PC-8800 software runs too fast in V2 mode, use a V1 mode.\n"
+"- BIOS files are required for N-BASIC mode. See core info."
+msgstr ""
+"Recomendación: N88-BASIC V2/V1H para el software para PC-8800, N-BASIC para el software para PC-8000.\n"
+"- Si el software para PC-8800 se ejecuta demasiado rápido en un modo V2, prueba con un modo V1.\n"
+"- El modo N-BASIC necesita los archivos de la BIOS. Puedes saber cuáles son en la información del núcleo."
+
+msgctxt "#30011"
+msgid "N88-BASIC V2"
+msgstr ""
+
+msgctxt "#30012"
+msgid "N88-BASIC V1H"
+msgstr ""
+
+msgctxt "#30013"
+msgid "N88-BASIC V1S"
+msgstr ""
+
+msgctxt "#30014"
+msgid "N-BASIC"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Recommended: Run Sub-CPU only during disk access."
+msgstr "Recomendación: ejecutar la sub-CPU solo al acceder al disquete."
+
+msgctxt "#30016"
+msgid "Run Sub-CPU only during disk access"
+msgstr "Ejecutar la sub-CPU solo al acceder al disquete"
+
+msgctxt "#30017"
+msgid "Run both CPUs during disk access"
+msgstr "Ejecutar ambas CPU al acceder al disquete"
+
+msgctxt "#30018"
+msgid "Always run both CPUs"
+msgstr "Ejecutar siempre ambas CPU"
+
+msgctxt "#30019"
+msgid "Recommended: 4MHz or 8MHz. Some software may run too fast with an 8MHz CPU."
+msgstr "Recomendación: 4 u 8 MHz. Algunas aplicaciones podrían ejecutarse demasiado rápido con una CPU a 8 MHz."
+
+msgctxt "#30020"
+msgid "4 MHz (NEC µPD780)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "8 MHz (NEC µPD70008)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "16 MHz (overclock)"
+msgstr "16 MHz (acelerar CPU)"
+
+msgctxt "#30023"
+msgid "32 MHz (overclock)"
+msgstr "32 MHz (acelerar CPU)"
+
+msgctxt "#30024"
+msgid "64 MHz (overclock)"
+msgstr "64 MHz (acelerar CPU)"
+
+msgctxt "#30025"
+msgid "1 MHz (underclock)"
+msgstr "1 MHz (ralentizar CPU)"
+
+msgctxt "#30026"
+msgid "2 MHz (underclock)"
+msgstr "2 MHz (ralentizar CPU)"
+
+msgctxt "#30027"
+msgid "Recommended: OPNA. Some software will sound different when using OPN hardware."
+msgstr "Recomendación: OPNA. Algunas aplicaciones podrían sonar de una forma distinta al utilizar un hardware OPN."
+
+msgctxt "#30028"
+msgid "OPN (Yamaha YM2203)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "OPNA (Yamaha YM2608)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Recommended: ON. Enables more accurate IO timing for the floppy disk controller."
+msgstr "Recomendación: Sí. Mejora la sincronía del I/O con el controlador de la disquetera."
+
+msgctxt "#30031"
+msgid "enabled"
+msgstr ""
+
+msgctxt "#30032"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Recommended: OFF. May be required for some PC-8000 software."
+msgstr "Recomendación: No. Algunas aplicaciones para PC-8000 sí podrían necesitarlo."
+
+msgctxt "#30034"
+msgid ""
+"Recommended: OFF. Changes the core's preferred save behavior.\n"
+"- OFF: Data written to floppy disks will be stored in a separate file in the frontend's save directory.\n"
+"- ON: Data will be written directly to the loaded disk file(s). Will not work with zipped content."
+msgstr ""
+"Recomendación: No. Cambia el método preferido por el núcleo para guardar datos.\n"
+"- No: Los datos que se escriban en disquetes serán almacenados en un archivo aparte, en el directorio de guardados del front-end.\n"
+"- Sí: Los datos se escribirán directamente en el(los) archivo(s) de disquete cargado(s). No se escribirán contenidos que estén en archivos .zip."
+
+msgctxt "#30035"
+msgid "Recommended: N/A. Imitates the read sounds on the floppy disk controller using the controller's rumble."
+msgstr "Recomendación: No disponible. Imita los sonidos de lectura del controlador de la disquetera con la vibración del mando."
+
+msgctxt "#30036"
+msgid "Recommended: Full. Allows the core to scale the image down. Only recommended for display heights below 400."
+msgstr "Recomendación: Resolución completa. Permite que el núcleo pueda hacer la imagen más pequeña (solo recomendado para pantallas con una altura inferior a 400 px)."
+
+msgctxt "#30037"
+msgid "Full (640x400)"
+msgstr "Resolución completa (640x400)"
+
+msgctxt "#30038"
+msgid "Half (320x200)"
+msgstr "Baja resolución (320x200)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -31,19 +31,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "BASIC mode"
-msgstr ""
+msgstr "BASIC 모드"
 
 msgctxt "#30002"
 msgid "Sub-CPU mode"
-msgstr ""
+msgstr "보조 CPU 모드"
 
 msgctxt "#30003"
 msgid "CPU clock"
-msgstr ""
+msgstr "CPU 클럭"
 
 msgctxt "#30004"
 msgid "Sound board"
-msgstr ""
+msgstr "사운드 보드"
 
 msgctxt "#30005"
 msgid "FDC-Wait"
@@ -51,19 +51,147 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Use PCG-8100"
-msgstr ""
+msgstr "PCG-8100 사용"
 
 msgctxt "#30007"
 msgid "Save to disk image"
-msgstr ""
+msgstr "디스크 이미지에 저장"
 
 msgctxt "#30008"
 msgid "Rumble on disk access"
-msgstr ""
+msgstr "디스크 액세스 중 진동"
 
 msgctxt "#30009"
 msgid "Screen size"
+msgstr "화면 크기"
+
+msgctxt "#30010"
+msgid ""
+"Recommended: N88-BASIC V2/V1H for PC-8800 software, N-BASIC for PC-8000 software.\n"
+"- If PC-8800 software runs too fast in V2 mode, use a V1 mode.\n"
+"- BIOS files are required for N-BASIC mode. See core info."
 msgstr ""
+"권장: PC-8800 소프트웨어에는 N88-BASIC V2/V1H, PC-8000 소프트웨어에는 N-BASIC\n"
+"- PC-8800 소프트웨어가 V2 모드에서 너무 빨리 실행된다면 V1 모드를 사용하십시오.\n"
+"- N-BASIC 모드를 사용하려면 BIOS 파일이 필요합니다. 코어 정보를 참조하십시오."
+
+msgctxt "#30011"
+msgid "N88-BASIC V2"
+msgstr ""
+
+msgctxt "#30012"
+msgid "N88-BASIC V1H"
+msgstr ""
+
+msgctxt "#30013"
+msgid "N88-BASIC V1S"
+msgstr ""
+
+msgctxt "#30014"
+msgid "N-BASIC"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Recommended: Run Sub-CPU only during disk access."
+msgstr "권장: 디스크 액세스 중일 때 보조 CPU만 사용"
+
+msgctxt "#30016"
+msgid "Run Sub-CPU only during disk access"
+msgstr "디스크 액세스 중일 때 보조 CPU만 사용"
+
+msgctxt "#30017"
+msgid "Run both CPUs during disk access"
+msgstr "디스크 액세스 중일 때 두 CPU 모두 사용"
+
+msgctxt "#30018"
+msgid "Always run both CPUs"
+msgstr "항상 두 CPU 모두 사용"
+
+msgctxt "#30019"
+msgid "Recommended: 4MHz or 8MHz. Some software may run too fast with an 8MHz CPU."
+msgstr "권장: 4MHz 또는 8MHz. 일부 소프트웨어는 8MHz CPU에서 너무 빠르게 실행될 수도 있습니다."
+
+msgctxt "#30020"
+msgid "4 MHz (NEC µPD780)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "8 MHz (NEC µPD70008)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "16 MHz (overclock)"
+msgstr "16 MHz (오버클럭)"
+
+msgctxt "#30023"
+msgid "32 MHz (overclock)"
+msgstr "32 MHz (오버클럭)"
+
+msgctxt "#30024"
+msgid "64 MHz (overclock)"
+msgstr "64 MHz (오버클럭)"
+
+msgctxt "#30025"
+msgid "1 MHz (underclock)"
+msgstr "1 MHz (언더클럭)"
+
+msgctxt "#30026"
+msgid "2 MHz (underclock)"
+msgstr "2 MHz (언더클럭)"
+
+msgctxt "#30027"
+msgid "Recommended: OPNA. Some software will sound different when using OPN hardware."
+msgstr "권장: OPNA. 일부 소프트웨어는 OPN 하드웨어 사용 시 소리 출력이 달라질 수 있습니다."
+
+msgctxt "#30028"
+msgid "OPN (Yamaha YM2203)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "OPNA (Yamaha YM2608)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Recommended: ON. Enables more accurate IO timing for the floppy disk controller."
+msgstr "권장: ON. 플로피 디스크 컨트롤러의 IO 타이밍을 더욱 정확하게 합니다."
+
+msgctxt "#30031"
+msgid "enabled"
+msgstr ""
+
+msgctxt "#30032"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Recommended: OFF. May be required for some PC-8000 software."
+msgstr "권장: OFF. 일부 PC-8000 소프트웨어의 구동에 필요할 수도 있습니다."
+
+msgctxt "#30034"
+msgid ""
+"Recommended: OFF. Changes the core's preferred save behavior.\n"
+"- OFF: Data written to floppy disks will be stored in a separate file in the frontend's save directory.\n"
+"- ON: Data will be written directly to the loaded disk file(s). Will not work with zipped content."
+msgstr ""
+"권장: OFF. 코어가 선호할 저장 방식을 변경합니다.\n"
+"- OFF: 플로피 디스크에 저장된 데이터는 프론트엔드의 저장 디렉토리에 개별 파일로 보관됩니다.\n"
+"- ON: 데이터가 불러와진 디스크 파일에 직접 쓰여집니다. 압축된 컨텐츠에서는 작동하지 않습니다."
+
+msgctxt "#30035"
+msgid "Recommended: N/A. Imitates the read sounds on the floppy disk controller using the controller's rumble."
+msgstr "권장: N/A. 플로피 디스크 컨트롤러가 디스크 읽는 소리를 컨트롤러의 진동으로 흉내냅니다."
+
+msgctxt "#30036"
+msgid "Recommended: Full. Allows the core to scale the image down. Only recommended for display heights below 400."
+msgstr "권장: 전체. 코어가 출력되는 이미지를 줄일 수 있게 합니다. 화면 높이가 400 미만인 화면에만 사용할 것을 권장합니다."
+
+msgctxt "#30037"
+msgid "Full (640x400)"
+msgstr "전체 (640x400)"
+
+msgctxt "#30038"
+msgid "Half (320x200)"
+msgstr "절반 (320x200)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
