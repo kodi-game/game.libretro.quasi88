@@ -186,3 +186,7 @@ msgstr "完整 (640x400)"
 msgctxt "#30038"
 msgid "Half (320x200)"
 msgstr "一半 (320x200)"
+
+msgctxt "#30039"
+msgid "2.53 MHz (PC80)"
+msgstr ""

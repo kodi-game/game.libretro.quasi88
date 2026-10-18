@@ -192,3 +192,7 @@ msgstr "Tam (640x400)"
 msgctxt "#30038"
 msgid "Half (320x200)"
 msgstr "Yarım (320x200)"
+
+msgctxt "#30039"
+msgid "2.53 MHz (PC80)"
+msgstr ""

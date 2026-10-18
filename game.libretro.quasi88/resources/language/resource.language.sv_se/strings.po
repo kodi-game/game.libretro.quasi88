@@ -189,6 +189,10 @@ msgctxt "#30038"
 msgid "Half (320x200)"
 msgstr ""
 
+msgctxt "#30039"
+msgid "2.53 MHz (PC80)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"

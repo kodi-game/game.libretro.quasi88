@@ -34,6 +34,7 @@
 					<constraints>
 						<options>
 							<option label="30020">4</option>
+							<option label="30039">2.53</option>
 							<option label="30021">8</option>
 							<option label="30022">16</option>
 							<option label="30023">32</option>

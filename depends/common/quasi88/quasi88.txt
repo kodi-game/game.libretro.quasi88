@@ -1,1 +1,1 @@
-quasi88 https://github.com/libretro/quasi88-libretro/archive/ac1e8743cf45d985d8f19191779a9407fc1b41de.tar.gz
+quasi88 https://github.com/libretro/quasi88-libretro/archive/7884be5277776a5d8c4fdc4e574e9b5b589945c9.tar.gz
